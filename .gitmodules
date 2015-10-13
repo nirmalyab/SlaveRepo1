@@ -1,3 +1,6 @@
 [submodule "MasterRepo"]
 	path = MasterRepo
 	url = https://github.com/nirmalyab/MasterRepo.git
+[submodule "Slave2"]
+	path = Slave2
+	url = /home/nirmalya/temp/Slave2
