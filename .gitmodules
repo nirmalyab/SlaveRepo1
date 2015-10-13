@@ -4,3 +4,6 @@
 [submodule "Slave2"]
 	path = Slave2
 	url = /home/nirmalya/temp/Slave2
+[submodule "slave2"]
+	path = slave2
+	url = git@bitbucket.org:nirmalyab/slave2.git
